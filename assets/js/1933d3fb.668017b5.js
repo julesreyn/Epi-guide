@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkepi_guide=self.webpackChunkepi_guide||[]).push([[9672],{1948:e=>{e.exports=JSON.parse('{"permalink":"/Epi-guide/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

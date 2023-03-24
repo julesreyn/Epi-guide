@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkepi_guide=self.webpackChunkepi_guide||[]).push([[7149],{7479:i=>{i.exports=JSON.parse('{"title":"C - Basics","slug":"/category/c---basics","permalink":"/docs/category/c---basics","navigation":{"previous":{"title":"Tutorial Intro","permalink":"/docs/intro"},"next":{"title":"Introduction to C","permalink":"/docs/C - Basics/Introduction"}}}')}}]);

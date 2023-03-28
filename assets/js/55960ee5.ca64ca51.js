@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkepi_guide=self.webpackChunkepi_guide||[]).push([[4121],{8070:e=>{e.exports=JSON.parse('[{"label":"tag1","permalink":"/Epi-guide/docs/tags/tag-1","count":1},{"label":"tag2","permalink":"/Epi-guide/docs/tags/tag-2","count":1},{"label":"tag3","permalink":"/Epi-guide/docs/tags/tag-3","count":1}]')}}]);
